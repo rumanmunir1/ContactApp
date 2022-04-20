@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ContactApp</string>
+    <string name="todo2">TODO</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="contact_name">Contact Name</string>
+    <string name="name">Name</string>
+    <string name="phone1">Phone</string>
+    <string name="email1">Email</string>
+    <string name="note">Note</string>
+    <string name="todo1">TODO</string>
+    <string name="updated_time">Updated Time</string>
+    <string name="added_time">Added Time</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="search">Search</string>
+    <string name="deleteall">DeleteAll</string>
 </resources>
